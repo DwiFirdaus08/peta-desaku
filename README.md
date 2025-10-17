@@ -1,4 +1,4 @@
-# Peta Jalan Desa [Desa Buninagara]
+# Peta Jalan Desa [Buninagara]
 
 Proyek ini menampilkan visualisasi jaringan jalan di Desa/Kelurahan [Buninagara], Kecamatan [Kutawaringin], Kabupaten [Kab. Bandung].
 
@@ -6,7 +6,7 @@ Proyek ini menampilkan visualisasi jaringan jalan di Desa/Kelurahan [Buninagara]
 
 Data jalan dalam format GeoJSON (`LineString`) dibuat secara manual dengan melakukan _tracing_ (menggambar ulang) dari citra satelit menggunakan platform [geojson.io](http://geojson.io).
 
-File data utama adalah `jalan_desa.json`.
+File data utama adalah `jalan_desa.geojson`.
 
 ## Tampilan Peta
 
