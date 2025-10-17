@@ -1,6 +1,6 @@
 # Peta Jalan Desa [Desa Buninagara]
 
-Proyek ini menampilkan visualisasi jaringan jalan di Desa/Kelurahan [Nama Desa Anda], Kecamatan [Nama Kecamatan], Kabupaten [Kab. Bandung].
+Proyek ini menampilkan visualisasi jaringan jalan di Desa/Kelurahan [Buninagara], Kecamatan [Kutawaringin], Kabupaten [Kab. Bandung].
 
 ## Deskripsi Data
 
@@ -12,7 +12,7 @@ File data utama adalah `jalan_desa.json`.
 
 Peta interaktif dapat diakses melalui tautan GitHub Pages berikut:
 
-**[Link ke Halaman Anda akan muncul di sini setelah diaktifkan]**
+**[https://dwifirdaus08.github.io/peta-desaku/]**
 
 ## Teknologi yang Digunakan
 
